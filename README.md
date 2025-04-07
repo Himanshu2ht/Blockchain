@@ -83,8 +83,6 @@ wget https://dist.ipfs.tech/kubo/v0.32.1/kubo_v0.32.1_linux-amd64.tar.gz
 tar -xvzf kubo_v0.32.1_linux-amd64.tar.gz
 ```
 to use kubo
-![Screenshot from 2025-04-07 14-43-58](https://github.com/user-attachments/assets/fced0e76-216a-4769-8884-df894a3a8b32)
-
 ```
 cd kubo
 ```
