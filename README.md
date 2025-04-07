@@ -74,6 +74,8 @@ to down the network
 wget https://dist.ipfs.tech/kubo/v0.32.1/kubo_v0.32.1_linux-amd64.tar.gz
 ```
 
+![Screenshot from 2025-04-07 14-43-58](https://github.com/user-attachments/assets/b99efb83-0302-47a0-a23e-12c27ef90749)
+
 
 ### Install IPFS
 
@@ -81,6 +83,7 @@ wget https://dist.ipfs.tech/kubo/v0.32.1/kubo_v0.32.1_linux-amd64.tar.gz
 tar -xvzf kubo_v0.32.1_linux-amd64.tar.gz
 ```
 to use kubo
+![Screenshot from 2025-04-07 14-43-58](https://github.com/user-attachments/assets/fced0e76-216a-4769-8884-df894a3a8b32)
 
 ```
 cd kubo
@@ -171,3 +174,11 @@ ipfs add <video-path>
 to add video
 
 ![video](https://github.com/user-attachments/assets/131c2e88-a2fa-47a1-93f3-22d615d2e1bd)
+
+## Metamask
+
+![Screenshot from 2025-04-07 14-48-24](https://github.com/user-attachments/assets/55bf0fd6-bbd2-4ded-bc99-8f79064f0469)
+
+## Free Sepolia Faucet 0.05 with GCP-
+![Screenshot from 2025-04-07 14-46-20](https://github.com/user-attachments/assets/3fdcab56-9bfa-4c28-a308-b6c9ef92b843)
+
