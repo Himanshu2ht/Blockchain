@@ -1,3 +1,5 @@
+### Basics commands to install Golang and Fabric
+
 ```
 sudo apt update
 ```
@@ -71,7 +73,9 @@ to down the network
 ```
 wget https://dist.ipfs.tech/kubo/v0.32.1/kubo_v0.32.1_linux-amd64.tar.gz
 ```
-to install IPFS
+
+
+### Install IPFS
 
 ```
 tar -xvzf kubo_v0.32.1_linux-amd64.tar.gz
