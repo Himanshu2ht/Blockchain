@@ -169,10 +169,6 @@ to add audio
 ```
 ipfs add <video-path>
 ```
-to add video
-
-![video](https://github.com/user-attachments/assets/131c2e88-a2fa-47a1-93f3-22d615d2e1bd)
-
 ## Metamask
 
 ![Screenshot from 2025-04-07 14-48-24](https://github.com/user-attachments/assets/55bf0fd6-bbd2-4ded-bc99-8f79064f0469)
