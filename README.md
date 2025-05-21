@@ -198,7 +198,7 @@ ipfs add <video-path>
 ![Screenshot from 2025-05-18 13-07-47](https://github.com/user-attachments/assets/37836f1e-1af1-477f-a02d-d8f347d6dc68)
 
 
-#### Check your metamsk your contract should have been successfully deployed.
+#### Check your metamsk, your contract should have been successfully deployed.
 
 ![Screenshot from 2025-05-18 13-08-40](https://github.com/user-attachments/assets/427f61ad-e169-418d-909d-9fdcd998fa10)
 
